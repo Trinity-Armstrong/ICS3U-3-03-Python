@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # created by: Trinity Armstrong
-# created on: September 2019
+# created on: October 2019
 # This program runs the "Number Guessing Game" with a random number generator
 
 import random
